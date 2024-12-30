@@ -13,3 +13,5 @@
 - 한국인터넷방송통신학회 IIBC 2024 국내 학술대회 우수논문상
 - TAVE 후반기 데이터 분석 프로젝트 장려상
 - 2024학년도 졸업작품전 동상
+
+[![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyee0e)](https://github.com/jihyee0e/github-readme-stats)
