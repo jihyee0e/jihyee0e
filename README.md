@@ -1,7 +1,5 @@
 ## Hi I'm Jihye 👋
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyee0e&edge_flat=false&title=hits)
-
 ![쿼카맹구](https://i.imgur.com/iPsga7f.jpeg)
 
 ### 🦾 Skills
