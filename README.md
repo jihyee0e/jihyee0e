@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihye0e)](https://solved.ac/jihye0e)
 
-![jihyee0e's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyee0e&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyee0e&layout=compact&theme=dark"/>
