@@ -3,10 +3,6 @@
 ![쿼카맹구](https://i.imgur.com/iPsga7f.jpeg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihye0e)](https://solved.ac/jihye0e)
-## Welcome yuujin00's github 👋
-
-![header](https://i.pinimg.com/736x/22/ff/a1/22ffa12723ecb5eff2e50c37f100564c.jpg)
-
 
 ## Career
 2025.01 - 2025.06 우리FISA AI엔지니어링 4기
