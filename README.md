@@ -19,7 +19,7 @@
 
 
 ## 🔝 Rank
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyee0e&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyee0e&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihye0e)](https://solved.ac/jihye0e)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jihyee0e&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
