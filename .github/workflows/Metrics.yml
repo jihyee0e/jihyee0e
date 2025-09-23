@@ -1,4 +1,4 @@
-name: metrics
+name: Metrics
 
 on:
   schedule:
@@ -22,4 +22,4 @@ jobs:
           plugin_habits_days: 14
           config_timezone: Asia/Seoul
           config_twemoji: yes
-          filename: metrics.svg
+          filename: Metrics.svg
