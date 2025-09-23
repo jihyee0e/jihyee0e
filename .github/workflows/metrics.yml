@@ -3,10 +3,10 @@ name: Metrics
 on:
   schedule:
     - cron: "0 */12 * * *"   # 12시간마다 자동 실행
-  workflow_dispatch:          # 수동 실행 버튼
+  workflow_dispatch:
 
 permissions:
-  contents: write             # 결과 파일을 리포에 커밋하기 위해 필요
+  contents: write
 
 jobs:
   github-metrics:
@@ -15,11 +15,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""                    # 기본 카드 끔(깔끔)
-          plugin_habits: yes          # 아침/낮/저녁/밤 커밋 습관 카드
+          base: ""
+          plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          plugin_habits_days: 14      # 최근 14일 기준(원하면 30/90 등으로)
+          plugin_habits_days: 14
           config_timezone: Asia/Seoul
           config_twemoji: yes
-          filename: metrics.svg       # 결과 파일 이름
+          filename: metrics.svg
