@@ -3,6 +3,8 @@ I love building things with data and exploring how AI can make everyday life eas
 
 I'm especially interested in machine learning, visualization, and turning ideas into real projects.
 
+<br>
+
 **💻 Career**
   
 - `2025.06 ~ present` 한국전자기술연구원 지능융합SW연구센터 연구원
