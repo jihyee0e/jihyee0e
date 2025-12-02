@@ -1,6 +1,4 @@
 ## Hi 👋
-<img src=https://i.imgur.com/iPsga7f.jpeg width="600" height="1000"/>
-
 
 ## 🧩 Career
 2025.06 ~ 한국전자기술연구원 지능융합SW연구센터 연구원
@@ -21,6 +19,4 @@
 
 
 ## 🔝 Rank
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyee0e&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihye0e)](https://solved.ac/jihye0e)
-
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="80%" />
