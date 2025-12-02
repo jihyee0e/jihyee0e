@@ -1,22 +1,34 @@
-## Hi 👋
+### Hi 👋
+I love building things with data and exploring how AI can make everyday life easier.
 
-## 🧩 Career
-2025.06 ~ 한국전자기술연구원 지능융합SW연구센터 연구원
+I'm especially interested in machine learning, visualization, and turning ideas into real projects.
 
-2025.01 ~ 2025.06 우리FIS아카데미 AI엔지니어링 과정 교육 수강
+<br>
 
+**💻 Career**
+  
+- 2025.06 ~ present 한국전자기술연구원 지능융합SW연구센터 연구원
 
-## 🏆 Awards
-🥉 2024 서울여자대학교 소프트웨어융합학과 졸업작품전 동상
+<br>
 
-🥇 2024 IIBC 국내학술대회 우수논문상
+**📚 Experience**
+- 2024.12 ~ 2025.06 우리FIS아카데미 AI엔지니어링 과정 수강
 
-🥉 IT연합동아리 TAVE 데이터 분석 프로젝트 장려상
+- 2024.02 ~ 2024.09 빅데이터분석학회 BDA 8기 데이터분석전처리반 학회원
 
+- 2022.09 ~ 2023.01 대학생 IT 연합동아리 TAVE 10기 회원
 
-## 🛠️ Tech Stacks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-00618A.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-444444.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-8A4182.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF5C5C.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-00C2A8.svg?style=for-the-badge&logo=mlflow&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-49021F?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
+**🏆 Awards**
 
-## 🔝 Rank
+- 2024.12 서울여자대학교 소프트웨어융합학과 졸업작품전 동상
+
+- 2024.11 IIBC 국내학술대회 우수논문상
+
+- 2023.01 IT 연합동아리 TAVE 후반기 데이터 분석 프로젝트 장려상
+
+<br>
+
+**🔝 Rank**
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="80%" />
