@@ -24,7 +24,3 @@ I'm especially interested in machine learning, visualization, and turning ideas 
 - `2024.11` IIBC 국내학술대회 우수논문상
 
 - `2023.01` IT 연합동아리 TAVE 후반기 데이터 분석 프로젝트 장려상
-
-**🔝 Rank**
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="80%" />
