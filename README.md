@@ -6,7 +6,6 @@ I'm especially interested in machine learning, visualization, and turning ideas 
 <br>
 
 ## 💻 Career
-  
 `2025.06 ~ present` 한국전자기술연구원 지능융합SW연구센터 연구원
 
 <br>
@@ -21,7 +20,6 @@ I'm especially interested in machine learning, visualization, and turning ideas 
 <br>
 
 ## 🏆 Awards
-
 `2024.12` 서울여자대학교 소프트웨어융합학과 졸업작품전 동상
 
 `2024.11` IIBC 국내학술대회 우수논문상
