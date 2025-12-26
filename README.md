@@ -10,7 +10,7 @@ I'm especially interested in machine learning, visualization, and turning ideas 
 
 <br>
 
-## 📚 Experience
+## 📚 Experiences
 `2024.12 ~ 2025.06` 우리FIS아카데미 AI엔지니어링 과정 수강
 
 `2024.02 ~ 2024.09` 빅데이터분석학회 BDA 8기 데이터분석전처리반 학회원
