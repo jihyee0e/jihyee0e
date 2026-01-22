@@ -6,7 +6,7 @@ I'm especially interested in machine learning, visualization, and turning ideas 
 <br>
 
 ## 💻 Career
-`2025.06 ~ present` 한국전자기술연구원 지능융합SW연구센터 연구원
+`2025.06 ~ 2025.12` 한국전자기술연구원 지능융합SW연구센터 연구원
 
 <br>
 
