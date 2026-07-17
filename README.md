@@ -1,34 +1,36 @@
-## Hi 👋
-I love building things with data and exploring how AI can make everyday life easier.
-
-I'm especially interested in machine learning, visualization, and turning ideas into real projects.
-
-<br>
-
-## 💻 Career
-`2025.06 ~ 2025.12` 한국전자기술연구원 지능융합SW연구센터 연구원
+Hi 👋 <br>
+I love building things with data and exploring how AI can make everyday life easier. <br>
+I'm especially interested in machine learning, visualization, and turning ideas into real projects. <br>
+Currently exploring the intersection of AI, data analytics, and digital forensics/security.
 
 <br>
 
-## 📚 Experiences
-`2024.12 ~ 2025.06` 우리FIS아카데미 AI엔지니어링 과정 수강
+## 🧑🏻‍🎓 Education
+- B.S. in Software Convergence · Seoul Women's University · 2020.03 ~ 2025.08
+  
+<br>
 
-`2024.02 ~ 2024.09` 빅데이터분석학회 BDA 8기 데이터분석전처리반 학회원
+## 💻 Experience
+- Researcher · Intelligent Convergence Software Research Center, Korea Electronics Technology Institute (KETI) · 2025.06 ~ 2025.12
 
-`2022.09 ~ 2023.01` 대학생 IT 연합동아리 TAVE 10기 회원
+- 우리FIS Academy AI Engineering · 2024.12 ~ 2025.05
+
+- 빅데이터분석학회 BDA 8기 데이터분석전처리반 학회원 · 2024.02 ~ 2024.09
+
+- 대학생 IT 연합동아리 TAVE 10기 회원 · 2022.09 ~ 2023.01
 
 <br>
 
 ## 🏆 Awards
-`2024.12` ㅇ대학교 소프트웨어융합학과 졸업작품전 동상
+- Bronze Prize, 2024 Graduation Project Exhibition @ Dept. of Software Convergence, Seoul Women's University · 2024.12
 
-`2024.11` IIBC 국내학술대회 우수논문상
+- Outstanding Paper Award, 2024 IIBC Conference @ The Korean Institute of Internet, Broadcasting and Communication · 2024.11
 
-`2023.01` IT 연합동아리 TAVE 후반기 데이터 분석 프로젝트 장려상
+- Encouragement Award, Data Analysis Project (2nd Term) @ IT Union Club TAVE · 2023.01
 
 <br>
 
-## 📜 Certification
-`2024.12` 정보처리기사 (한국산업인력공단) 
+## 📜 Certifications
+- 정보처리기사 (한국산업인력공단) · 2024.12
 
-`2024.12` SQLD (한국데이터산업진흥원) 
+- SQLD (한국데이터산업진흥원) · 2024.12
