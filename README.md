@@ -15,9 +15,9 @@ Currently exploring the intersection of AI, data analytics, and digital forensic
 
 - 우리FIS Academy AI Engineering · 2024.12 ~ 2025.05
 
-- 빅데이터분석학회 BDA 8기 데이터분석전처리반 학회원 · 2024.02 ~ 2024.09
+- BDA 8th Cohort – Data Analysis & Preprocessing Track · 2024.02 ~ 2024.09
 
-- 대학생 IT 연합동아리 TAVE 10기 회원 · 2022.09 ~ 2023.01
+- TAVE 10th Cohort – University Student IT Association · 2022.09 ~ 2023.01
 
 <br>
 
