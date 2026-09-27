@@ -11,6 +11,7 @@ Currently exploring the intersection of AI, data analytics, and digital forensic
 <br>
 
 ## 💻 Experience
+- Undergraduate Research Intern, AI Security Lab · Ewha Womans Univ · Aug. 2026 ~ present
 - Researcher · Intelligent Convergence Software Research Center, Korea Electronics Technology Institute (KETI) · 2025.06 ~ 2025.12
 
 - 우리FIS Academy AI Engineering · 2024.12 ~ 2025.05
